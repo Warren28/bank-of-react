@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.debitRender .debitCard {
+  width: 200px;
+  height: 200px;
+  background-color: coral;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.debitRender .addDebit {
+  position: relative;
+  background-color: cornflowerblue;
+  width: 300px;
+  height: 150px;
+}
